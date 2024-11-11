@@ -20,6 +20,6 @@ public class HelloController {
             log.warn("/aws/v2 이 호출되었어요. warn 로그 #####################################");
         }
         
-        return "<h1>New Jeans~</h1>";
+        return "<h1>힘들어</h1>";
     }
 }
